@@ -2,11 +2,11 @@
 
 É um jogo desenvolvido utilizando a linguagem de progamação portugol, onde criei as regras do jogo inspirado no Conwey's game of life, utilizado para aqueles interessados em aprender mais sobre padrões que se repetem.
 
-Para executar deve-se abaixar o Portugol Studio, copiar o texto do [JogoDaVida.por](JogoDaVida.por) e colar em um novo arquivo.
+Para executar deve-se abaixar o Portugol Studio, copiar o texto do [JogoDaVida.por](JogoDaVida.por), colar em um novo arquivo e clicar em executar o codigo.
 
 Atualmente possuí os seguintes keybinds:
 
-Q: Pausa o projeto e permite alterar os estados do pixel com os botões do mouse( Direito remover uma celula, esquerdo colocar uma célula ).
+Q: Enquanto estiver apertado pausa o projeto e permite alterar os estados do pixel com os botões do mouse( Direito remover uma celula, esquerdo colocar uma célula ).
 E: Randomiza o canvas do projeto, permitindo ver padrões se formando.
 R: Limpa o canvas do projeto para testar padrões sem ter a interferência de outras células.
 
@@ -18,5 +18,8 @@ O codigo está organizando em funções comentadas com o que cada uma representa
 Segue uma imagem do codigo em execução:
 
 ![Image](assets/image.png)
+
+
+Obs: A pasta assets é só para referenciar a imagem acima.
 
 [Licenca MIT](LICENSE)
