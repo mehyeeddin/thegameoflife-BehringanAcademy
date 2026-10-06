@@ -1,6 +1,8 @@
-# O quê é o projeto?
+# Jogo da Vida
 
-é um jogo desenvolvido utilizando a linguagem de progamação portugol, onde criei as regras do jogo inspirado no Conwey's game of life.
+É um jogo desenvolvido utilizando a linguagem de progamação portugol, onde criei as regras do jogo inspirado no Conwey's game of life, utilizado para aqueles interessados em aprender mais sobre padrões que se repetem.
+
+Para executar deve-se abaixar o Portugol Studio e dar upload do codigo.
 
 Atualmente possuí os seguintes keybinds:
 
