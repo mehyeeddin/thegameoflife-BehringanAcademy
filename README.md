@@ -8,3 +8,6 @@ Q: Pausa o projeto e permite alterar os estados do pixel com os botões do mouse
 E: Randomiza o canvas do projeto, permitindo ver padrões se formando.
 R: Limpa o canvas do projeto para testar padrões sem ter a interferência de outras células.
 
+Segue uma imagem do codigo em execução:
+
+![Image](assets/image.png)
