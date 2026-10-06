@@ -13,3 +13,5 @@ R: Limpa o canvas do projeto para testar padrões sem ter a interferência de ou
 Segue uma imagem do codigo em execução:
 
 ![Image](assets/image.png)
+
+![Licenca MIT](LICENSE)
